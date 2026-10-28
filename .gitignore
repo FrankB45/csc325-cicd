@@ -1,0 +1,16 @@
+__pycache__/manage.cpython-314.pyc
+config/settings.py
+.gitignore
+config/__pycache__/settings.cpython-314.pyc
+.gitignore
+.gitignore
+config/__pycache__/__init__.cpython-314.pyc
+config/__pycache__/urls.cpython-314.pyc
+config/__pycache__/wsgi.cpython-314.pyc
+frankApp/__pycache__/apps.cpython-314.pyc
+frankApp/__pycache__/models.cpython-314.pyc
+.gitignore
+frankApp/__pycache__/views.cpython-314.pyc
+frankApp/__pycache__/__init__.cpython-314.pyc
+frankApp/migrations/__pycache__/__init__.cpython-314.pyc
+frankApp/__pycache__/urls.cpython-314.pyc
