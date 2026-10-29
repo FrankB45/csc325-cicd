@@ -1,8 +1,8 @@
 # Add API routes here. They are served under /api/.
 
 from django.urls import path
-from .views import hello_world
+from .views import get_random_quote
 
 urlpatterns = [
-    path("hello/", hello_world, name="hello-world"),
+    path("quotes/", get_random_quote, name="get-random-quote"),
 ]
